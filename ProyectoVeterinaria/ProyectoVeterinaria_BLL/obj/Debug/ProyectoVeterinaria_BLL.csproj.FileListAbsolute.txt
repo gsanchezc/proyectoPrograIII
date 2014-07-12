@@ -1,0 +1,4 @@
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_BLL\bin\Debug\ProyectoVeterinaria_BLL.dll
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_BLL\bin\Debug\ProyectoVeterinaria_BLL.pdb
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_BLL\obj\Debug\ProyectoVeterinaria_BLL.dll
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_BLL\obj\Debug\ProyectoVeterinaria_BLL.pdb

@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PL", "PL", "{3A5633C1-211A-48D0-942F-6514BFF9CED3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BLL", "BLL", "{F7535D58-BEFC-49BF-8DE5-0DB68063ADCA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{066A6EC2-E927-4DF9-BC46-42B1A562E116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoVeterinaria_PL", "ProyectoVeterinaria_PL\ProyectoVeterinaria_PL.csproj", "{E0341F59-7E74-4CE6-B6A6-B14A882ABBC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoVeterinaria_DAL", "ProyectoVeterinaria_DAL\ProyectoVeterinaria_DAL.csproj", "{3A7F7AF0-C287-4ADA-81CE-178EDAB5B79A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoVeterinaria_BLL", "ProyectoVeterinaria_BLL\ProyectoVeterinaria_BLL.csproj", "{D6DB8D36-A7A4-4607-977F-67732975C61B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0341F59-7E74-4CE6-B6A6-B14A882ABBC2}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E0341F59-7E74-4CE6-B6A6-B14A882ABBC2}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{E0341F59-7E74-4CE6-B6A6-B14A882ABBC2}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{E0341F59-7E74-4CE6-B6A6-B14A882ABBC2}.Debug|x86.ActiveCfg = Debug|x86
+		{E0341F59-7E74-4CE6-B6A6-B14A882ABBC2}.Debug|x86.Build.0 = Debug|x86
+		{E0341F59-7E74-4CE6-B6A6-B14A882ABBC2}.Release|Any CPU.ActiveCfg = Release|x86
+		{E0341F59-7E74-4CE6-B6A6-B14A882ABBC2}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{E0341F59-7E74-4CE6-B6A6-B14A882ABBC2}.Release|Mixed Platforms.Build.0 = Release|x86
+		{E0341F59-7E74-4CE6-B6A6-B14A882ABBC2}.Release|x86.ActiveCfg = Release|x86
+		{E0341F59-7E74-4CE6-B6A6-B14A882ABBC2}.Release|x86.Build.0 = Release|x86
+		{3A7F7AF0-C287-4ADA-81CE-178EDAB5B79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A7F7AF0-C287-4ADA-81CE-178EDAB5B79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A7F7AF0-C287-4ADA-81CE-178EDAB5B79A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{3A7F7AF0-C287-4ADA-81CE-178EDAB5B79A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{3A7F7AF0-C287-4ADA-81CE-178EDAB5B79A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3A7F7AF0-C287-4ADA-81CE-178EDAB5B79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A7F7AF0-C287-4ADA-81CE-178EDAB5B79A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A7F7AF0-C287-4ADA-81CE-178EDAB5B79A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{3A7F7AF0-C287-4ADA-81CE-178EDAB5B79A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{3A7F7AF0-C287-4ADA-81CE-178EDAB5B79A}.Release|x86.ActiveCfg = Release|Any CPU
+		{D6DB8D36-A7A4-4607-977F-67732975C61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DB8D36-A7A4-4607-977F-67732975C61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6DB8D36-A7A4-4607-977F-67732975C61B}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D6DB8D36-A7A4-4607-977F-67732975C61B}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D6DB8D36-A7A4-4607-977F-67732975C61B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D6DB8D36-A7A4-4607-977F-67732975C61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6DB8D36-A7A4-4607-977F-67732975C61B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6DB8D36-A7A4-4607-977F-67732975C61B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D6DB8D36-A7A4-4607-977F-67732975C61B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D6DB8D36-A7A4-4607-977F-67732975C61B}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E0341F59-7E74-4CE6-B6A6-B14A882ABBC2} = {3A5633C1-211A-48D0-942F-6514BFF9CED3}
+		{D6DB8D36-A7A4-4607-977F-67732975C61B} = {F7535D58-BEFC-49BF-8DE5-0DB68063ADCA}
+		{3A7F7AF0-C287-4ADA-81CE-178EDAB5B79A} = {066A6EC2-E927-4DF9-BC46-42B1A562E116}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_PL\bin\Debug\ProyectoVeterinaria_PL.exe
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_PL\bin\Debug\ProyectoVeterinaria_PL.pdb
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debug\ProyectoVeterinaria_PL.Pantallas.frmEmpleado.resources
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debug\ProyectoVeterinaria_PL.Pantallas.frmPrincipal.resources
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debug\ProyectoVeterinaria_PL.Properties.Resources.resources
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debug\ProyectoVeterinaria_PL.csproj.GenerateResource.Cache
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debug\ProyectoVeterinaria_PL.exe
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debug\ProyectoVeterinaria_PL.pdb
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_PL\bin\Debug\ProyectoVeterinaria_PL.exe.config
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debug\ProyectoVeterinaria_PL.Pantallas.frmCategoria.resources
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debug\ProyectoVeterinaria_PL.Pantallas.frmClientes.resources
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debug\ProyectoVeterinaria_PL.Pantallas.frmIngresoSistema.resources
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debug\ProyectoVeterinaria_PL.Pantallas.frmProductos.resources
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debug\ProyectoVeterinaria_PL.Pantallas.frmProveedor.resources
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debug\ProyectoVeterinaria_PL.Pantallas.frmTipoClientes.resources
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debug\ProyectoVeterinaria_PL.Pantallas.frmTipoEmpleado.resources
+C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debug\ProyectoVeterinaria_PL.csprojResolveAssemblyReference.cache
