@@ -16,6 +16,7 @@ C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debu
 C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debug\ProyectoVeterinaria_PL.Pantallas.frmTipoEmpleado.resources
 C:\Users\Adriana\Desktop\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debug\ProyectoVeterinaria_PL.csprojResolveAssemblyReference.cache
 C:\Users\Jose Vilapriño\Documents\GitHub\proyectoPrograIII\ProyectoVeterinaria\ProyectoVeterinaria_PL\bin\Debug\ProyectoVeterinaria_PL.exe.config
+<<<<<<< HEAD
 C:\Users\Jose Vilapriño\Documents\GitHub\proyectoPrograIII\ProyectoVeterinaria\ProyectoVeterinaria_PL\bin\Debug\ProyectoVeterinaria_PL.exe
 C:\Users\Jose Vilapriño\Documents\GitHub\proyectoPrograIII\ProyectoVeterinaria\ProyectoVeterinaria_PL\bin\Debug\ProyectoVeterinaria_PL.pdb
 C:\Users\Jose Vilapriño\Documents\GitHub\proyectoPrograIII\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debug\ProyectoVeterinaria_PL.Pantallas.frmCategoria.resources
@@ -31,3 +32,6 @@ C:\Users\Jose Vilapriño\Documents\GitHub\proyectoPrograIII\ProyectoVeterinaria\
 C:\Users\Jose Vilapriño\Documents\GitHub\proyectoPrograIII\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debug\ProyectoVeterinaria_PL.csproj.GenerateResource.Cache
 C:\Users\Jose Vilapriño\Documents\GitHub\proyectoPrograIII\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debug\ProyectoVeterinaria_PL.exe
 C:\Users\Jose Vilapriño\Documents\GitHub\proyectoPrograIII\ProyectoVeterinaria\ProyectoVeterinaria_PL\obj\x86\Debug\ProyectoVeterinaria_PL.pdb
+=======
+Z:\GitHub\proyectoPrograIII\ProyectoVeterinaria\ProyectoVeterinaria_PL\bin\Debug\ProyectoVeterinaria_PL.exe.config
+>>>>>>> origin/master
